@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_390193_terraform.terraform_integration" name="x_390193_terraform.terraform_integration">2f368127db677300219cf26b689619c7</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>andrei.silva</sys_created_by>
+        <sys_created_on>2019-09-03 16:32:41</sys_created_on>
+        <sys_id>6f368127db677300219cf26b689619cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2f368127db677300219cf26b689619c7</sys_name>
+        <sys_package display_value="Terraform" source="x_390193_terraform">aa26cd27db677300219cf26b68961910</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Terraform">aa26cd27db677300219cf26b68961910</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6f368127db677300219cf26b689619cb</sys_update_name>
+        <sys_updated_by>andrei.silva</sys_updated_by>
+        <sys_updated_on>2019-09-03 16:32:41</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
